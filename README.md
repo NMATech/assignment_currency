@@ -4,7 +4,7 @@
 Name : Nadindra Maulana Aziz <br>
 Program : ReactJS for FrontEnd Website
 
-It's an application ReactJS design to show the rate currency from CAD, IDR, JPY, CHF, EUR, dan GBP using [currency api](https://currencyfreaks.com/)
+It's an application ReactJS design to show the rate currency from CAD, IDR, JPY, CHF, EUR, and GBP base from USD using [currency api](https://currencyfreaks.com/)
 
 
 ## Tech Stack
