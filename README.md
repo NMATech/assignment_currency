@@ -27,7 +27,7 @@ install depedencies
 
 change .env-example to .env
 
-get your own api-key from 
+get your own api-key from [here](https://currencyfreaks.com/)
 
 run server
 ```bash
